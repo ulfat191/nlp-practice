@@ -1,0 +1,8 @@
+North South University, CSE499A Group #3 information 
+====================================================
+
+Name      birth day        email
+----      ---------        -----
+Ulfat     05/03/00        ulfat@nsu.edu
+Shanto    01/08/99        shanto@nsu.edu
+Moriom    22/02/54        moriom@ctg.com
